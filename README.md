@@ -24,9 +24,9 @@ Linear Regression (for prediction model)
 
 Data Preprocessing (One-Hot-Encoding, FeatureEngineering etc)
 
-# 🚀Steps To Setup And Run On Your PC
+# 🚀Steps To Setup And Run On Your PC Use Command Prompt
 
-1) Clone the Repository - git clone https://github.com/Sangu7680/Employee_salary_predictor.git
+1) Clone the Repository - git clone https://github.com/Sangu7680/Employee_salary_predictor.git 
    
    cd Employee_salary_predictor
 
