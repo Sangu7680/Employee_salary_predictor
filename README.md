@@ -39,7 +39,8 @@ Open the URL shown in your terminal to access the Employee Salary Predictor in y
 # Sample output
 
 1- ![Screenshot 2025-04-14 182131](https://github.com/user-attachments/assets/bc49bc12-fbd3-4a41-9a27-4843440a7186)
-2- ![Screenshot 2025-04-14 182157](https://github.com/user-attachments/assets/30e2f247-f6b5-4eb2-87cf-f96df5126647)
+2- ![Screenshot 2025-04-14 210054](https://github.com/user-attachments/assets/130a2d0d-c86d-4a38-af1b-abafd9705336)
+
 
 
 
