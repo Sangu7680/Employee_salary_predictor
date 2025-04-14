@@ -28,7 +28,7 @@ Data Preprocessing (One-Hot-Encoding, FeatureEngineering etc)
 
 1) Clone the Repository - git clone https://github.com/Sangu7680/Employee_salary_predictor.git
    
-cd Employee_salary_predictor
+   cd Employee_salary_predictor
 
 3) Install Required Dependencies -
 
