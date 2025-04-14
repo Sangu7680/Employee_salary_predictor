@@ -12,8 +12,11 @@ Providing a clean UI to test various input scenarios
 # Technologies Used
 
 Python (NumPy, Pandas, scikit-learn)
+
 Streamlit (for the interactive front-end)
+
 Linear Regression (for prediction model)
+
 Data Preprocessing (One-Hot-Encoding, FeatureEngineering etc)
 
 # 🚀Steps To Setup And Run On Your PC
